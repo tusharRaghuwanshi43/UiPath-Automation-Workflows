@@ -6,7 +6,7 @@
 
 ![UiPath](https://img.shields.io/badge/UiPath-Automation-orange?style=for-the-badge&logo=uipath)
 ![RPA](https://img.shields.io/badge/RPA-Robotic%20Process%20Automation-blue?style=for-the-badge)
-![Workflows](https://img.shields.io/badge/Workflows-60+-success?style=for-the-badge)
+![Workflows](https://img.shields.io/badge/Workflows-50+-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
