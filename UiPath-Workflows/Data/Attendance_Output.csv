@@ -1,0 +1,6 @@
+﻿StudentID,Name,DaysPresent,AttendancePercentage,Status
+S101,Amit,85,85.00%,Eligible
+S102,Riya,68,68.00%,Short Attendance
+S103,Neha,90,90.00%,Eligible
+S104,Rahul,72,72.00%,Short Attendance
+S105,Pooja,55,55.00%,Short Attendance

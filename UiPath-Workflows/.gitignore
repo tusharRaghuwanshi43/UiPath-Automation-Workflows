@@ -1,0 +1,25 @@
+# UiPath temporary folders
+.entities/
+.local/
+.objects/
+.project/
+.screenshots/
+.settings/
+.storage/
+.templates/
+.tmh/
+
+# Visual Studio
+.vs/
+
+# Logs & Cache
+*.log
+*.cache
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python (optional)
+__pycache__/

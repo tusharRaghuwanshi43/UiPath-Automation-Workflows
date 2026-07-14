@@ -1,0 +1,7 @@
+﻿EmpID,Name,Email,Department,WorkingDays,PresentDays,BasicSalary,EarnedBasic,HRA,DA,PF,Tax,NetSalary
+,,,,,,,,,,,,
+101,Amit,tusharraghuwanshi046@gmail.com,IT,22,20,45000,40909.09,40909.09,4090.91,4909.09,2045.45,78954.55
+102,Neha,tusharraghuwanshi82@gmail.com,HR,22,18,38000,31090.91,31090.91,3109.09,3730.91,1554.55,60005.45
+103,Rahul,en23cs3011089@medicaps.ac.in,Finance,22,22,52000,52000,52000,5200,6240,2600,100360
+104,Sneha,en23cs3011140@medicaps.ac.in,Sales,22,15,41000,27954.55,27954.55,2795.46,3354.55,1397.73,53952.28
+105,Vikas,gaurav.sharma@medicaps.ac.in,IT,22,21,47000,44863.64,44863.64,4486.36,5383.64,2243.18,86586.82
